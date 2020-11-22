@@ -2,8 +2,9 @@ import java.awt.EventQueue;
 
 /**
  * Clase principal del Buscaminas
- * @author  {Rellenar por el alumno}
- *
+ * @author Ana María Nieto
+ * @version 1.1
+ * @since 1.1
  */
 public class Principal {
 
